@@ -1,4 +1,4 @@
-# Test files for Assignment #2 (SENG 265, Summer 2018)
+# Test files for Assignment #3 (SENG 265, Summer 2018)
 
 There are twenty pairs of files. For example, the first pair consists of:
 
@@ -23,3 +23,6 @@ When diff produces no output, that means its two input text streams
 (file & file, or file & stdin) are identical. Writing a bash shell
 script to do these diffs for all ten tests is left as an exercise to
 the reader.
+
+
+----
